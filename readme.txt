@@ -23,7 +23,7 @@ Frndzk Expandable Bottom Bar plugin adds a dashing expandable botttom bar in you
 
 = A question that someone might have =
 
-for questions please write [here](http://bitto.us/wp/fpfamhelp)
+for questions please write [here](http://bitto.us/wp/febbhelp)
 
 == Screenshots ==
 
